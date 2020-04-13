@@ -8,6 +8,7 @@ public class HumanResourcesTest {
 		
 	Employee e1 = new Employee();
 	Employee e2 = new Employee();
+	//Employee e2 = e1;
 	
 	e1.id = 1;
 	e1.firstName = "Pablo";
